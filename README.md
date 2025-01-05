@@ -11,5 +11,5 @@ Overview Year to Date (YTD):
     Male customers are contributing more in revenue (30M) than female (25M). 
     Blue credit card is generating highest revenue (83.4%) followed by Silver credit cards (10.1%) then Gold and Platinum cards.
     TX and NY are contributing 13M each in revenue.
-    Overall Activation rate is 57.5%
-    Overall Delinquent rate is 6.06% 
+    Overall Activation rate is 57.5%.
+    Overall Delinquent rate is 6.06%.
